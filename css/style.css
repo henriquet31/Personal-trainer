@@ -1,0 +1,36 @@
+body {
+    background-color: #20212b;
+}
+header {
+    background-color: #2d4354;
+    border-bottom: 10px solid #73766a;
+}
+header h1 {
+    color: #a7aa9e;
+}
+
+.navbar-nav .nav-link.active {
+    color: #ffffff;
+}
+
+.nav-link, h2, p {
+    color: #ffffff;
+}
+section {
+    min-height: 100vh;
+    padding-top: 80px;
+}
+
+.form-control { 
+    background-color: #20212b;
+    border: 1px solid #b7b9b0;
+}
+
+.form-label { 
+    color: #d7dad0;
+    margin-top: 10px;
+}
+
+.btn-success {
+    margin-top: 12px;
+}
